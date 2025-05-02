@@ -2,6 +2,9 @@
 Medical Image Classification with Enhanced ResNet50
 Project Description
 
+
+Download the files from this google drive: https://drive.google.com/drive/folders/1-5m-9Klb-gM4MpA04iqEy647wnRmHNcP?usp=share_link
+
 Check the Code version of read me file.
 
 This repository contains an enhanced ResNet50 model with Squeeze-and-Excitation (SE) blocks for medical image classification and lesion counting. The model simultaneously performs classification (4 severity classes) and lesion counting tasks.
