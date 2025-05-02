@@ -39,7 +39,8 @@ Setup Instructions
 1. Google Drive Setup
 
 Create a folder called "Classification" in your Google Drive
-Inside it, create:
+Inside it, uplaod the the datasaet from this link:
+https://drive.google.com/drive/folders/18yJcHXhzOv7H89t-Lda6phheAicLqMuZ
 "JPEGImages" folder for your medical images
 Upload all NNEW_trainval_[0-4].txt and NNEW_test_[0-4].txt files
 2. Google Colab Setup
